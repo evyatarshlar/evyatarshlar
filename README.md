@@ -3,6 +3,8 @@
 
 • 🌴 Proficient in building single-page apps. 
 
+• 😎 checkout my protfolio website [Prtfolio](https://evyatarshlar.github.io/Portfolio/)
+
 • 🏆 I recently built a clone of Airbnb, **check it out**, it has everything! [Bestbnb](https://bestbnb.onrender.com)
 
 • 📫 You can reach me at **evyatarszlar@gmail.com**
