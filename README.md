@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Evyatar.</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-• 🌴 Proficient in building single-page apps. 
+• 💼 Full-Stack Developer, currently working on a production-level web platform (Angular + NestJS + MongoDB)  
+• ⚙️ Strong focus on building scalable, user-friendly single-page applications  
+• 🧠 Experience handling bugs via Sentry and improving development workflow using AI assistants 
 
 • 😎 checkout my protfolio website [Prtfolio](https://evyatarshlar.github.io/Portfolio/)
 
-• 🏆 I recently built a clone of Airbnb, **check it out**, it has everything! [Bestbnb](https://bestbnb.onrender.com)
+• 🏆 Built a full Airbnb-style marketplace from scratch, **check it out**, it has everything! [Bestbnb](https://bestbnb.onrender.com)
 
-• 📫 You can reach me at **evyatarszlar@gmail.com**
+• 📫 Reach me at **evyatarszlar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
